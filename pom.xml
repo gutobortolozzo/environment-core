@@ -13,7 +13,6 @@
 			<email>angeliferreira@gmail.com</email>
 		</developer>
 	</developers>
-
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
